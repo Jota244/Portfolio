@@ -466,10 +466,15 @@ section {
 .edu-degree { font-size: 1.1rem; font-weight: 700; margin-bottom: 4px; }
 .edu-inst { color: var(--accent); margin-bottom: 4px; }
 .edu-period {
-  font-family: 'Space Mono', monospace;
-  font-size: 0.7rem;
-  color: var(--muted);
+  font-family: 'Space Mono',;
+  font-size: 0.9rem;
+  color: var(--white);
   letter-spacing: 0.1em;
+}
+
+.edu-ano {
+  font-size: 1.0rem;
+  color: var(--muted);
 }
 
 /* CONTACT */
